@@ -9,5 +9,5 @@ Hiệu quả thực tế
 Giảm đến 60% chi phí vận hành, đã được kiểm chứng qua báo cáo cụ thể.
 Tương thích hoàn toàn với các công cụ như Claude Code, Cursor, OpenCode và Codex CLI.
 100% miễn phí, có thể tích hợp trực tiếp vào dự án.
-(Link ở mình để ở comment)
-https://github.com/affaan-m/everything-claude-code?fbclid=IwY2xjawQ6CWNleHRuA2FlbQIxMABicmlkETE3QWFYd085ZjE3eHR2SmJ6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv8msVAa0LTbcWl5r019Na26cN_8fCSBBCzd4HmVu5mkii6nmGgqb1Tu8ctY_aem_pl5cgtYtSudDmzHTKsuBEA
+
+https://github.com/affaan-m/everything-claude-code.git
